@@ -1,0 +1,10 @@
+# venv stuff
+bin/
+include/
+lib/
+
+env
+pip-selfcheck.json
+pyvenv.cfg
+
+feedr.db
